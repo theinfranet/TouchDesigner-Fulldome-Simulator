@@ -32,13 +32,6 @@ These controls allow you to step inside the dome and preview the deformation exa
 
 ![FulldomeSimulator](Screenshots/3.png)
 
-
-# Use Cases
-
-- Test and preview visuals before sending them to a fulldome environment.
-- Understand how flat 2D images or 3D renders will deform when wrapped on a dome.
-- Real-time prototyping for immersive installations, VJ sets, or planetarium content.
-
 # How to Use
 
 - Download the FulldomeSimulator.tox file and FulldomeTemplates folder from this repository.
@@ -53,7 +46,13 @@ These controls allow you to step inside the dome and preview the deformation exa
 
 When using 3D rendering methods, it is essential to render with:
 
-- Render Mode → FishEye Equidistant (180°)
+- Render Mode → **FishEye Equidistant (180°)**
+
+## Use Cases
+
+- Test and preview visuals before sending them to a fulldome environment.
+- Understand how flat 2D images or 3D renders will deform when wrapped on a dome.
+- Real-time prototyping for immersive installations, VJ sets, or planetarium content.
 
 ## Compatibility Note
 
