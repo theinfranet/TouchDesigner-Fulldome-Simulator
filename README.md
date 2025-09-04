@@ -3,6 +3,9 @@ A lightweight TouchDesigner component (.tox) for simulating fulldome projections
 It allows you to wrap any 2D or 3D visual onto a virtual dome and preview its corresponding deformation as it would appear in a real fulldome environment.
 This makes it possible to inspect fine details and better understand how visuals behave once projected across a dome surface.
 
+![FulldomeSimulator](Screenshots/1.png)
+
+
 ✨ Features
 
 - Dome deformation preview – wrap 2D/3D visuals onto a virtual dome.
