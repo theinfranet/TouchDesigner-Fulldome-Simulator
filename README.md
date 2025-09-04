@@ -1,4 +1,4 @@
-# TouchDesigner Fulldom Simulator (beta) v0.2
+# TouchDesigner Fulldome Simulator (beta) v0.2
 A lightweight TouchDesigner component (.tox) for simulating fulldome projections.
 It allows you to wrap any 2D or 3D visual onto a virtual dome and preview its corresponding deformation as it would appear in a real fulldome environment.
 This makes it possible to inspect fine details and better understand how visuals behave once projected across a dome surface.
