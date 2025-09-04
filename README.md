@@ -16,6 +16,9 @@ This makes it possible to inspect fine details and better understand how visuals
 - Sweet Spot grid – focus the viewer’s vision with a customizable grid overlay.
 
 
+![FulldomeSimulator](Screenshots/2.png)
+
+
 🎮 Camera Controls
 These controls allow you to step inside the dome and preview the deformation exactly from the spectator’s viewpoint.
 
@@ -25,6 +28,9 @@ These controls allow you to step inside the dome and preview the deformation exa
 - Mouse wheel → Zoom
 - Middle click + wheel → Smooth zoom
 - H → Reset camera
+
+![FulldomeSimulator](Screenshots/3.png)
+
 
 🔧 Use Cases
 
