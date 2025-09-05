@@ -6,7 +6,7 @@ This was developed as an initiative to test real-time visuals inside TouchDesign
 ![FulldomeSimulator](Screenshots/1.png)
 
 
-# Features
+## Features
 
 - Dome deformation preview – wrap 2D/3D visuals onto a virtual dome.
 - 3 built-in templates – switch between different dome projection layouts.
@@ -19,7 +19,7 @@ This was developed as an initiative to test real-time visuals inside TouchDesign
 ![FulldomeSimulator](Screenshots/3.png)
 
 
-# Camera Controls
+## Camera Controls
 
 These controls allow you to step inside the dome and preview the deformation exactly from the spectator’s viewpoint.
 
@@ -30,7 +30,7 @@ These controls allow you to step inside the dome and preview the deformation exa
 - Middle click + wheel → Smooth zoom
 - H → Reset camera
 
-# How to Use
+## How to Use
 
 - Download the FulldomeSimulator.tox file and FulldomeTemplates folder from this repository.
 - Open your TouchDesigner project.
@@ -42,7 +42,7 @@ These controls allow you to step inside the dome and preview the deformation exa
 
 ![FulldomeSimulator](Screenshots/2.png)
 
-# Fulldome production and export recommendations:
+## Fulldome production and export recommendations:
 
 In your timeline (bottom interface of TouchDesigner): Set the number of frames you need for your movie. Define the FPS (30 or 60) and set Range Limit: Once.
 
